@@ -1,6 +1,8 @@
 CircularImageView
 =================
 
+图片的圆形处理
+
 This is an Android project allowing to realize a circular ImageView in the simplest way possible.
 
 Image Result
